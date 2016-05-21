@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "WHERE EVERY FRAME COUNTS"
 date:   2016-05-21 04:34:50 -0700
 categories: jekyll update
 ---
