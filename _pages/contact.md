@@ -1,7 +1,7 @@
 ------------
-permalink: /contact/
-layout: default
+layout: page
 title: contact
+permalink: /contact/
 -------------
 
 THIS IS OUR CONTACTS
