@@ -11,7 +11,7 @@ email: kalyannagar@frameboxx.com
 description: > # this means to ignore newlines until "baseurl:"
   218 3rd floor, Sunshine Complex
   Kamanahalli, 4th main HRBR Layout,
-  Kalyan Nagar, Banglore-560043
+  Kalyan Nagar, Banglore-560043 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.frameboxxkalyannagar.com" # the base hostname & protocol for your site
 twitter_username: frameboxx
