@@ -1,7 +1,7 @@
 --------
-permalink: /about/
+permalink: /contact/
 layout:    page
-title:     About Us
+title:     Contacts
 ---------
 
 THIS IS BEST ANIMATION INSTITUTE
